@@ -1,0 +1,72 @@
+body {
+    background-color: black
+}
+
+.container {
+    margin: 0 auto;
+    padding: 10px;
+    width: 95%;
+    color: #333;
+    background: black;
+}
+
+.column {
+    float: left;
+    width: 50%;  /** 横幅50% **/
+}
+
+.sliderLeftAbove {
+    text-align: center;
+    color: #419be0;
+    background: black;
+}
+
+.sliderLeftAbove img {
+    padding: 10px;
+    background: black;
+    width: auto;
+	height: 300px;
+    margin:0 auto;
+}
+
+.sliderRightAbove {
+    text-align: center;
+    color: #419be0;
+    background: black;
+}
+
+.sliderRightAbove img {
+    padding: 10px;
+    background: black;
+    width: auto;
+	height: 300px;
+    margin:0 auto;
+}
+
+.sliderLeftBottom {
+    text-align: center;
+    color: #419be0;
+    background: black;
+}
+
+.sliderLeftBottom img {
+    padding: 10px;
+    background: black;
+    width: auto;
+	height: 300px;
+    margin:0 auto;
+}
+
+.sliderRightBottom {
+    text-align: center;
+    color: #419be0;
+    background: black;
+}
+
+.sliderRightBottom img {
+    padding: 10px;
+    background: black;
+    width: auto;
+	height: 300px;
+    margin:0 auto;
+}
